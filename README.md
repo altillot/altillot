@@ -2,11 +2,11 @@
 
 ### About me
 
-I am a Political Scientist with interests in peace and conflict, sexual violence in armed conflict, international law, and interstate cooperation. As a researcher, I believe in **the power of mixed-methods approaches**, which can highlight both broader trends vis-a-vis data analyses while also illuminating details on the ground through case studies, interviews, focus groups, and other qualitative approaches.
+I am a Political Scientist with interests in peace and conflict, interstate cooperation, and machine learning methods. As a researcher, I believe in **the power of mixed-methods approaches**, which can highlight both broader trends vis-a-vis data analyses while also illuminating details on the ground through case studies, interviews, focus groups, and other qualitative approaches.
 
-To this end, I am currently developing my quantitative skill set via an M.A. in Quantitative Methods in the Social Sciences at Columbia University.
+To this end, I am currently developing my quantitative skill set via an M.A. in Quantitative Methods in the Social Sciences (Data Science focus)at Columbia University.
 
-I am currently seeking opportunities to contribute these skills after I graduate in May 2022. Please contact if you know of a good fit! 
+I am  seeking opportunities to contribute these skills after I graduate in May 2022. Please contact me if you know of a good fit! 
 
 ### Contact Me
 
